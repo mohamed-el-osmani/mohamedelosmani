@@ -1,5 +1,3 @@
-# mohamedelosmani
-My GitHub profile README
 # Hi, I'm Mohamed 👋
 
 💻 Junior Web Developer  
